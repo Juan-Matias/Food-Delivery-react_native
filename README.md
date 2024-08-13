@@ -6,7 +6,7 @@
    src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/background.jpg" alt="Demo Background"
    />
 
-   <img  src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/delivery.gif" alt="Demo GIF" width="200"/>
+   <img  src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/delivery.gif" alt="Demo GIF" width="200" height="400"/>
 
 
 
